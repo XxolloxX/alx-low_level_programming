@@ -1,2 +1,1 @@
-# alx-low_level_programming
-readme for new project
+just a README for alx
